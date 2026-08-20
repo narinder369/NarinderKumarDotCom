@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="Smile Dental Care website preview">
+  <rect width="1200" height="750" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1200" height="750" fill="#FFF7E8"/>
+  <rect x="80" y="70" width="1040" height="610" rx="28" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="120" y="130" font-family="Georgia, serif" font-size="28" fill="#5A1F0A">Smile Dental Care</text>
+  <rect x="120" y="180" width="560" height="240" rx="24" fill="#F472B6" opacity="0.12"/>
+  <text x="150" y="250" font-family="Georgia, serif" font-size="34" fill="#5A1F0A">A healthier, brighter smile</text>
+  <text x="150" y="290" font-family="Arial" font-size="18" fill="#64748B">Treatments explained clearly for new patients.</text>
+  <rect x="720" y="180" width="340" height="240" rx="24" fill="#7DD3FC" opacity="0.4"/>
+  <rect x="120" y="460" width="940" height="150" rx="20" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="160" y="520" font-family="Arial" font-size="18" fill="#5A1F0A">Cleaning  ·  Aligners  ·  Whitening  ·  Emergency care</text>
+</svg>

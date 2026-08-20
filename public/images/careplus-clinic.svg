@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="CarePlus Clinic website preview">
+  <rect width="1200" height="750" fill="#FFF7E8"/>
+  <rect x="70" y="60" width="1060" height="630" rx="28" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="70" y="60" width="1060" height="72" rx="28" fill="#FFFFFF"/>
+  <rect x="70" y="108" width="1060" height="24" fill="#FFFFFF"/>
+  <text x="110" y="108" font-family="Georgia, serif" font-size="28" fill="#5A1F0A">CarePlus Clinic</text>
+  <rect x="920" y="82" width="160" height="36" rx="18" fill="#F472B6"/>
+  <text x="948" y="106" font-family="Arial" font-size="14" fill="#FFFFFF">Book Visit</text>
+  <rect x="110" y="170" width="620" height="220" rx="20" fill="#FFF7E8"/>
+  <text x="140" y="230" font-family="Georgia, serif" font-size="36" fill="#5A1F0A">Care you can trust</text>
+  <text x="140" y="270" font-family="Arial" font-size="18" fill="#64748B">Consultations, diagnostics and follow-up.</text>
+  <rect x="140" y="300" width="160" height="40" rx="20" fill="#F472B6"/>
+  <rect x="760" y="170" width="320" height="220" rx="20" fill="#7DD3FC" opacity="0.35"/>
+  <circle cx="920" cy="260" r="54" fill="#FFFFFF"/>
+  <rect x="110" y="430" width="300" height="160" rx="18" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="440" y="430" width="300" height="160" rx="18" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="770" y="430" width="300" height="160" rx="18" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="140" y="490" font-family="Arial" font-size="18" fill="#5A1F0A">General Medicine</text>
+  <text x="470" y="490" font-family="Arial" font-size="18" fill="#5A1F0A">Diagnostics</text>
+  <text x="800" y="490" font-family="Arial" font-size="18" fill="#5A1F0A">Follow-up Care</text>
+</svg>

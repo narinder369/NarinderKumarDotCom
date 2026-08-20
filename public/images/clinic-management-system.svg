@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="Clinic Management System preview">
+  <rect width="1200" height="750" fill="#F8FAFC"/>
+  <rect x="40" y="40" width="220" height="670" rx="24" fill="#5A1F0A"/>
+  <text x="70" y="100" font-family="Georgia, serif" font-size="22" fill="#FFFFFF">Clinic OS</text>
+  <rect x="70" y="140" width="160" height="36" rx="10" fill="#F472B6"/>
+  <rect x="70" y="196" width="160" height="28" rx="8" fill="#FFFFFF" opacity="0.15"/>
+  <rect x="70" y="240" width="160" height="28" rx="8" fill="#FFFFFF" opacity="0.15"/>
+  <rect x="70" y="284" width="160" height="28" rx="8" fill="#FFFFFF" opacity="0.15"/>
+  <rect x="290" y="40" width="870" height="670" rx="24" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="330" y="100" font-family="Georgia, serif" font-size="28" fill="#5A1F0A">Today's appointments</text>
+  <rect x="330" y="140" width="250" height="120" rx="16" fill="#FFF7E8"/>
+  <rect x="600" y="140" width="250" height="120" rx="16" fill="#7DD3FC" opacity="0.25"/>
+  <rect x="870" y="140" width="240" height="120" rx="16" fill="#F472B6" opacity="0.15"/>
+  <rect x="330" y="290" width="780" height="70" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="330" y="380" width="780" height="70" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="330" y="470" width="780" height="70" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="360" y="332" font-family="Arial" font-size="16" fill="#252525">09:30  Patient check-in</text>
+  <text x="360" y="422" font-family="Arial" font-size="16" fill="#252525">11:00  Follow-up consultation</text>
+  <text x="360" y="512" font-family="Arial" font-size="16" fill="#252525">14:15  Lab results review</text>
+</svg>
